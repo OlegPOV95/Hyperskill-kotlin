@@ -2,7 +2,7 @@ package signature
 
 import java.io.File
 
-class Font(filePath: String, private val whiteSpaceSize: Int = 4,) {
+class Font(filePath: String, private val whiteSpaceSize: Int = 4) {
 
     val letterHeight: Int
     private val fileLines: List<String>
