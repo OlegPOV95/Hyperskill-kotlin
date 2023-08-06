@@ -1,0 +1,3 @@
+package jsondatabase
+
+fun main() {}
